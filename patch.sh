@@ -1,5 +1,5 @@
 #!usr/bin/bash
-echo "Sucked!"
+echo "Sucked ne dostatochno!"
 
 exit 0
 
